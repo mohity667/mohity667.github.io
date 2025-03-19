@@ -5,7 +5,7 @@ I turn complex data into actionable insights by developing scalable BI and autom
 
 Currently, at **MU Healthcare**, I design data-driven strategies that improve efficiency and financial performance. Passionate about solving complex problems, I thrive in fast-paced environments across various industries.  
 
-📍 **Chicago, IL** | 📧 [Email Me](mailto:mohity667@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mohity667) | 📄 [Resume](https://github.com/mohity667/mohity667.github.io/blob/main/Mohit_Yadav_Resume_IL.pdf)  
+📍 **Chicago, IL** | 📧 [Email Me](mailto:mohity667@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mohity667) | 📄 [Resume](https://drive.google.com/file/d/1H_q7nGRXIO7dmUebB4Jvo90DkMmrj3dC/view?usp=sharing)  
 
 
 ## Work Experience
