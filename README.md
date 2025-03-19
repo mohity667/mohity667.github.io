@@ -58,8 +58,6 @@ Beyond work, I am passionate about **soccer** and enjoy practicing SQL and Pytho
 - Automated **clinic operations reporting**, creating **self-serve dashboards** that eliminated the need for manual SQL queries, saving over **100+ hours of manual effort per month**.
 - Integrated **Cerner EHR data into analytical workflows**, streamlining **data extraction and processing**, reducing preparation time by **40%** for key reports.
 
-## 🚀 Portfolio Projects
-
 ### **Engineered a Scalable Data Pipeline for Automated Reporting**  
 Designed and deployed an **end-to-end web scraping and data visualization pipeline** using **Python (BeautifulSoup, Plotly, Papermill)** to **automate 80% of manual data processing**. This initiative streamlined data collection, reduced human errors, and accelerated cross-departmental reporting, improving efficiency by **4x**.
 
