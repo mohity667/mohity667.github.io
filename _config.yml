@@ -4,22 +4,22 @@ theme: jekyll-theme-minimal
 
 description: >
   <h2>Skills</h2>
-  <ul>
-    <li>📊 <b>Data Analysis:</b> ████████░░</li>
-    <li>🔄 <b>ETL:</b> ████████░░</li>
-    <li>🐍 <b>Python:</b> ███████░░░</li>
-    <li>🗃️ <b>SQL:</b> █████████░</li>
-    <li>📈 <b>Power BI/Tableau:</b> █████████░</li>
-    <li>🏗️ <b>Data Design & Modeling:</b> ███████░░░</li>
-    <li>🔐 <b>Data Governance:</b> ███████░░░</li>
-    <li>🤖 <b>Machine Learning:</b> ████░░░░░░</li>
-    <li>🌿 <b>Version Control:</b> ████░░░░░░</li>
-    <li>☁️ <b>Cloud Computing:</b> █████░░░░░</li>
-    <li>🗣️ <b>Communication:</b> ███████░░░</li>
-    <li>🧠 <b>Problem-Solving:</b> █████████░</li>
-    <li>🔄 <b>Adaptability:</b> █████████░</li>
-    <li>📅 <b>Project Management:</b> █████████░</li>
-    <li>👥 <b>Leadership & Mentorship:</b> █████░░░░░</li>
-    <li>💼 <b>Business Acumen:</b> █████████░</li>
-    <li>🏥 <b>Analytics Operations:</b> █████████░</li>
-  </ul>
+  <table>
+    <tr><td>📊 <b>Data Analysis</b></td><td> ████████░░ </td></tr>
+    <tr><td>🔄 <b>ETL</b></td><td> ████████░░ </td></tr>
+    <tr><td>🐍 <b>Python</b></td><td> ███████░░░ </td></tr>
+    <tr><td>🗃️ <b>SQL</b></td><td> █████████░ </td></tr>
+    <tr><td>📈 <b>Power BI/Tableau</b></td><td> █████████░ </td></tr>
+    <tr><td>🏗️ <b>Data Design & Modeling</b></td><td> ███████░░░ </td></tr>
+    <tr><td>🔐 <b>Data Governance</b></td><td> ███████░░░ </td></tr>
+    <tr><td>🤖 <b>Machine Learning</b></td><td> ████░░░░░░ </td></tr>
+    <tr><td>🌿 <b>Version Control</b></td><td> ████░░░░░░ </td></tr>
+    <tr><td>☁️ <b>Cloud Computing</b></td><td> █████░░░░░ </td></tr>
+    <tr><td>🗣️ <b>Communication</b></td><td> ███████░░░ </td></tr>
+    <tr><td>🧠 <b>Problem-Solving</b></td><td> █████████░ </td></tr>
+    <tr><td>🔄 <b>Adaptability</b></td><td> █████████░ </td></tr>
+    <tr><td>📅 <b>Project Management</b></td><td> █████████░ </td></tr>
+    <tr><td>👥 <b>Leadership & Mentorship</b></td><td> █████░░░░░ </td></tr>
+    <tr><td>💼 <b>Business Acumen</b></td><td> █████████░ </td></tr>
+    <tr><td>🏥 <b>Analytics Operations</b></td><td> █████████░ </td></tr>
+  </table>
