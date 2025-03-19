@@ -1,10 +1,9 @@
 title: Mohit Yadav
-logo: /Circle_Headshot.png
 theme: jekyll-theme-minimal
 
 description: >
   <h2 style="font-size: 20px;">Skills</h2>
-  <img src="/Circle_Headshot.png" style="width: 120px; border-radius: 50%; display: block; margin: 10px auto;">
+  <img src="/Circle_Headshot.png" style="width: 120px; border-radius: 60%; display: block; margin: 10px auto;">
   <table style="font-size: 12px;">
     <tr><td>📊 <b>Data Analysis</b></td><td> ████████░░ </td></tr>
     <tr><td>🔄 <b>ETL</b></td><td> ████████░░ </td></tr>
