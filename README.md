@@ -1,11 +1,12 @@
 ## Business Intelligence Analyst | Data & Analytics Professional  
 ### About Me  
 
-I transform **complex data into actionable insights** by building **scalable BI, automation, and analytics solutions**. With **3+ years of experience** in **data analytics, business intelligence, and process automation**, I specialize in leveraging **SQL, Python, Power BI, and Databricks** to **optimize decision-making, streamline operations, and drive business impact**.  
+I turn complex data into actionable insights by developing scalable BI and automation solutions. With **5+** years of experience, I specialize in optimizing decision-making and streamlining operations to drive measurable business impact.  
 
-Currently, at **MU Healthcare**, I develop **end-to-end analytics solutions** that improve **operational efficiency, financial performance, and data-driven strategies**. Whether working in **healthcare, finance, or operations**, my passion is solving complex problems with data.  
+Currently, at **MU Healthcare**, I design data-driven strategies that improve efficiency and financial performance. Passionate about solving complex problems, I thrive in fast-paced environments across various industries.  
 
-📍 **Chicago, IL** | 📧 mohity667@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/mohity667)  
+📍 **Chicago, IL** | 📧 [Email Me](mailto:mohity667@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/mohity667) | 📄 [Resume](https://github.com/mohity667/mohity667.github.io/blob/main/Mohit_Yadav_Resume_IL.pdf)  
+
 
 ## Work Experience
 
