@@ -1,2 +1,25 @@
 title: Mohit Yadav
 logo: /Circle_Headshot.png
+theme: jekyll-theme-minimal
+
+description: >
+  <h2>Skills</h2>
+  <ul>
+    <li>📊 <b>Data Analysis:</b> ████████░░</li>
+    <li>🔄 <b>ETL:</b> ████████░░</li>
+    <li>🐍 <b>Python:</b> ███████░░░</li>
+    <li>🗃️ <b>SQL:</b> █████████░</li>
+    <li>📈 <b>Power BI/Tableau:</b> █████████░</li>
+    <li>🏗️ <b>Data Design & Modeling:</b> ███████░░░</li>
+    <li>🔐 <b>Data Governance:</b> ███████░░░</li>
+    <li>🤖 <b>Machine Learning:</b> ████░░░░░░</li>
+    <li>🌿 <b>Version Control:</b> ████░░░░░░</li>
+    <li>☁️ <b>Cloud Computing:</b> █████░░░░░</li>
+    <li>🗣️ <b>Communication:</b> ███████░░░</li>
+    <li>🧠 <b>Problem-Solving:</b> █████████░</li>
+    <li>🔄 <b>Adaptability:</b> █████████░</li>
+    <li>📅 <b>Project Management:</b> █████████░</li>
+    <li>👥 <b>Leadership & Mentorship:</b> █████░░░░░</li>
+    <li>💼 <b>Business Acumen:</b> █████████░</li>
+    <li>🏥 <b>Analytics Operations:</b> █████████░</li>
+  </ul>
