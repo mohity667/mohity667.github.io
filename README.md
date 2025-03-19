@@ -1,15 +1,11 @@
 # Business Intelligence Analyst
 ## About Me
 
-From the start of my career, I have been driven by a passion for understanding complex data and uncovering insights that create real impact. With nearly five years of experience in analytics—three of those specifically in healthcare—I specialize in **business intelligence, data interpretation, and automation**.
+From the start of my career, I have been driven by a passion for understanding complex data and uncovering insights that create real impact. With nearly five years of experience in analytics—three of those specifically in healthcare—I specialize in **Business Intelligence, Data Analysis, and Automation**.
 
 My journey into data began in college while pursuing my **Master’s in Data Science & Analytics** at the University of Missouri, where I eagerly explored SQL queries, statistical models, and dynamic reporting to extract meaningful insights. Since then, I have honed my expertise in **Python, SQL, Power BI, and Databricks** to solve critical business challenges.
 
-Currently, I am a **Business Intelligence Analyst at MU Healthcare**, where I develop **scalable analytics solutions** to enhance **patient outcomes, operational efficiency, and financial performance**.
-
-
-Previously, at **BJC Healthcare**, I played a key role in **improving online scheduling conversion rates**, **forecasting patient volume trends**, and **automating business intelligence reporting**, leading to enhanced decision-making and productivity.
-
+Currently, I am a **Business Intelligence Analyst at MU Healthcare**, where I develop **Scalable Analytics Solutions** to enhance **Patient Outcomes, operational efficiency, and Financial Performance**.
 Beyond work, I am passionate about **soccer** and enjoy practicing SQL and Python challenges on **StrataScratch**. My goal is to leverage **data science and BI tools** to drive actionable insights, making a measurable difference in **healthcare analytics**.
 
 📍 **Based in Chicago, IL**  
