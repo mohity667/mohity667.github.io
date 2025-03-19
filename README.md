@@ -1,47 +1,11 @@
-# Business Intelligence Analyst
-## About Me
+## Business Intelligence Analyst | Data & Analytics Professional  
+### About Me  
 
-From the start of my career, I have been driven by a passion for understanding complex data and uncovering insights that create real impact. With nearly five years of experience in analytics—three of those specifically in healthcare—I specialize in **Business Intelligence, Data Analysis, and Automation**.
+I transform **complex data into actionable insights** by building **scalable BI, automation, and analytics solutions**. With **3+ years of experience** in **data analytics, business intelligence, and process automation**, I specialize in leveraging **SQL, Python, Power BI, and Databricks** to **optimize decision-making, streamline operations, and drive business impact**.  
 
-My journey into data began in college while pursuing my **Master’s in Data Science & Analytics** at the University of Missouri, where I eagerly explored SQL queries, statistical models, and dynamic reporting to extract meaningful insights. Since then, I have honed my expertise in **Python, SQL, Power BI, and Databricks** to solve critical business challenges.
+Currently, at **MU Healthcare**, I develop **end-to-end analytics solutions** that improve **operational efficiency, financial performance, and data-driven strategies**. Whether working in **healthcare, finance, or operations**, my passion is solving complex problems with data.  
 
-Currently, I am a **Business Intelligence Analyst at MU Healthcare**, where I develop **Scalable Analytics Solutions** to enhance **Patient Outcomes, operational efficiency, and Financial Performance**.
-Beyond work, I am passionate about **soccer** and enjoy practicing SQL and Python challenges on **StrataScratch**. My goal is to leverage **data science and BI tools** to drive actionable insights, making a measurable difference in **healthcare analytics**.
-
-📍 **Based in Chicago, IL**  
-📧 **Email:** mohity667@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/mohity667](https://www.linkedin.com/in/mohity667)
-
-## Knowledge, Skills, and Abilities
-
-<table>
-  <tr>
-    <th>Skill</th>
-    <th>Proficiency</th>
-  </tr>
-  <tr>
-    <td>📊 Data Analysis</td>
-    <td>████████░░</td>
-  </tr>
-  <tr>
-    <td>🔄 ETL</td>
-    <td>████████░░</td>
-  </tr>
-  <tr>
-    <td>🐍 Python</td>
-    <td>███████░░░</td>
-  </tr>
-  <tr>
-    <td>🗃️ SQL</td>
-    <td>█████████░</td>
-  </tr>
-  <tr>
-    <td>📈 Power BI/Tableau</td>
-    <td>█████████░</td>
-  </tr>
-</table>
-
-
+📍 **Chicago, IL** | 📧 mohity667@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/mohity667)  
 
 ## Work Experience
 
