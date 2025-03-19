@@ -58,6 +58,33 @@ Beyond work, I am passionate about **soccer** and enjoy practicing SQL and Pytho
 - Automated **clinic operations reporting**, creating **self-serve dashboards** that eliminated the need for manual SQL queries, saving over **100+ hours of manual effort per month**.
 - Integrated **Cerner EHR data into analytical workflows**, streamlining **data extraction and processing**, reducing preparation time by **40%** for key reports.
 
+## 🚀 Portfolio Projects
+
+### **Engineered a Scalable Data Pipeline for Automated Reporting**  
+Designed and deployed an **end-to-end web scraping and data visualization pipeline** using **Python (BeautifulSoup, Plotly, Papermill)** to **automate 80% of manual data processing**. This initiative streamlined data collection, reduced human errors, and accelerated cross-departmental reporting, improving efficiency by **4x**.
+
+### **Spearheaded Slot Utilization Optimization, Preventing Unnecessary Expansion**  
+Led a **high-impact slot utilization project**, leveraging **Databricks, SQL, Python, and Power BI** to **increase slot utilization by 30%**, unlocking hidden capacity and **saving six figures in expansion costs**. By re-allocating underutilized clinic slots, ensured **optimized resource distribution** without adding physical infrastructure.
+
+### **Built a Real-Time Inpatient Discharge Dashboard to Reduce Readmissions**  
+Developed and implemented a **real-time inpatient discharge tracking system** with **row-level security**, granting **10+ departments instant access** to critical patient data. This centralized system improved discharge follow-up rates and contributed to a **measurable reduction in hospital readmissions**.
+
+### **Deployed Predictive Analytics to Reduce Readmission Rates**  
+Designed and optimized a **predictive analytics model** using **SQL and statistical modeling** to flag patients at high risk of readmission. This data-driven approach led to a **2% reduction in readmissions**, enhancing patient care and reducing hospital costs.
+
+### **Led the Orthopedics Center of Excellence Dashboard Implementation**  
+Architected a **comprehensive Orthopedics Center of Excellence dashboard**, integrating **DNV accreditation metrics** to track and improve **five critical performance measures**. Standardized data-driven decision-making across the department, **accelerating compliance tracking by 50%**.
+
+### **Developed a No-Show Prediction Model to Improve Scheduling Efficiency**  
+Engineered a **real-time no-show prediction model** using **machine learning algorithms**, improving **scheduling accuracy and patient retention**. This initiative reduced last-minute cancellations, optimizing **provider schedules and clinic efficiency**.
+
+### **Automated Clinic Operations Reporting, Eliminating Manual Work**  
+Created **self-serve Power BI dashboards**, replacing ad-hoc SQL queries and eliminating over **100+ hours of manual reporting per month**. Enabled business users to access real-time insights instantly, cutting down turnaround times and improving decision-making speed.
+
+### **Integrated Cerner EHR Data for Faster, Scalable Reporting**  
+Optimized **Cerner EHR data ingestion and transformation**, reducing **report preparation time by 40%**. Standardized **data extraction workflows**, ensuring consistent, accurate, and faster access to critical healthcare analytics.
+
+
 **Tools & Technologies:** Python, SQL, Power BI, Databricks, Microsoft Fabric, Cerner, Azure, Microsoft Report Builder, Power Automate  
 
 ---
