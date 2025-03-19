@@ -13,28 +13,6 @@ Beyond work, I am passionate about **soccer** and enjoy practicing SQL and Pytho
 🔗 **LinkedIn:** [linkedin.com/in/mohity667](https://www.linkedin.com/in/mohity667)
 
 ## Knowledge, Skills, and Abilities
-| Skill                     | Proficiency  |
-|---------------------------|-------------|
-| 📊 Data Analysis          | ████████░░   |
-| 🔄 ETL                    | ████████░░   |
-| 🐍 Python                 | ███████░░░   |
-| 🗃️ SQL                    | █████████░   |
-| 📈 Power BI/Tableau       | █████████░   |
-| 🏗️ Data Design & Modeling | ███████░░░   |
-| 🔐 Data Governance        | ███████░░░   |
-| 🤖 Machine Learning       | ████░░░░░░   |
-| 🌿 Version Control (Git)  | ████░░░░░░   |
-| ☁️ Cloud Computing        | █████░░░░░   |
-| 🗣️ Communication          | ███████░░░   |
-| 🧠 Problem-Solving        | █████████░   |
-| 🔄 Adaptability           | █████████░   |
-| 📅 Project Management     | █████████░   |
-| 👥 Leadership & Mentorship | █████░░░░░   |
-| 💼 Business Acumen        | █████████░   |
-| 🏥 Analytics Operations   | █████████░   |
-
-
-## Knowledge, Skills, and Abilities
 
 <table>
   <tr>
