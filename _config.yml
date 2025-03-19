@@ -1,5 +1,13 @@
 title: Mohit Yadav
 logo: /Circle_Headshot.png
-# description: text below image
-# show_downloads: true
 theme: jekyll-theme-minimal
+
+description: |
+  ## Skills  
+  - **📊 Data Analysis:** ████████░░  
+  - **🔄 ETL:** ████████░░  
+  - **🐍 Python:** ███████░░░  
+  - **🗃️ SQL:** █████████░  
+  - **📈 Power BI/Tableau:** █████████░  
+  - **🏗️ Data Design & Modeling:** ███████░░░  
+  - **🔐 Data Governance:** ███████░░░  
