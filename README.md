@@ -49,8 +49,8 @@ Beyond work, I am passionate about **soccer** and enjoy practicing SQL and Pytho
 **Business Intelligence Analyst**  
 *June 2023 – Present | Columbia, MO*
 
-- Engineered a **scalable web scraping and data visualization pipeline** using Python (BeautifulSoup, Plotly, Papermill) to **automate 80% of manual data processing**, significantly improving reporting efficiency across departments.
-- Spearheaded a **slot utilization optimization project**, leveraging **Databricks, SQL, Python, and Power BI** to **increase slot utilization by 30%**, resulting in significant cost savings and preventing unnecessary clinic expansion.
+- Designed and deployed an **end-to-end web scraping and data visualization pipeline** using **Python (BeautifulSoup, Plotly, Papermill)** to **automate 80% of manual data processing**. This initiative streamlined data collection, reduced human errors, and accelerated cross-departmental reporting, improving efficiency by **4x**.
+- Led a **high-impact slot utilization project**, leveraging **Databricks, SQL, Python, and Power BI** to **increase slot utilization by 30%**, unlocking hidden capacity and **saving six figures in expansion costs**. By re-allocating underutilized clinic slots, ensured **optimized resource distribution** without adding physical infrastructure.
 - Designed and implemented a **real-time inpatient discharge reporting tool**, providing **centralized access to 10+ departments** with **row-level security**, improving **follow-up rates and reducing hospital readmissions**.
 - Led **predictive analytics initiatives** to identify and mitigate patient readmission risks, using **SQL, data transformation techniques, and statistical modeling**, leading to a **2% reduction in readmission rates**.
 - Directed the **Orthopedics Center of Excellence dashboard implementation**, aligning with **DNV accreditation standards**, streamlining **five key performance measures** for quality improvement.
@@ -59,7 +59,6 @@ Beyond work, I am passionate about **soccer** and enjoy practicing SQL and Pytho
 - Integrated **Cerner EHR data into analytical workflows**, streamlining **data extraction and processing**, reducing preparation time by **40%** for key reports.
 
 ### **Engineered a Scalable Data Pipeline for Automated Reporting**  
-Designed and deployed an **end-to-end web scraping and data visualization pipeline** using **Python (BeautifulSoup, Plotly, Papermill)** to **automate 80% of manual data processing**. This initiative streamlined data collection, reduced human errors, and accelerated cross-departmental reporting, improving efficiency by **4x**.
 
 ### **Spearheaded Slot Utilization Optimization, Preventing Unnecessary Expansion**  
 Led a **high-impact slot utilization project**, leveraging **Databricks, SQL, Python, and Power BI** to **increase slot utilization by 30%**, unlocking hidden capacity and **saving six figures in expansion costs**. By re-allocating underutilized clinic slots, ensured **optimized resource distribution** without adding physical infrastructure.
