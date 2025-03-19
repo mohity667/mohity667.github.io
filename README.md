@@ -34,6 +34,37 @@ Beyond work, I am passionate about **soccer** and enjoy practicing SQL and Pytho
 | 🏥 Analytics Operations   | █████████░   |
 
 
+## Knowledge, Skills, and Abilities
+
+<table>
+  <tr>
+    <th>Skill</th>
+    <th>Proficiency</th>
+  </tr>
+  <tr>
+    <td>📊 Data Analysis</td>
+    <td>████████░░</td>
+  </tr>
+  <tr>
+    <td>🔄 ETL</td>
+    <td>████████░░</td>
+  </tr>
+  <tr>
+    <td>🐍 Python</td>
+    <td>███████░░░</td>
+  </tr>
+  <tr>
+    <td>🗃️ SQL</td>
+    <td>█████████░</td>
+  </tr>
+  <tr>
+    <td>📈 Power BI/Tableau</td>
+    <td>█████████░</td>
+  </tr>
+</table>
+
+
+
 ## Work Experience
 
 ### **University of Missouri Health Care**  
