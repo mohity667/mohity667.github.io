@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+    <div class="wrapper">
+        <aside>
+            <img src="{{ site.logo | relative_url }}" alt="Profile Picture">
+            <h1>{{ site.title }}</h1>
+            <p>{{ site.description }}</p>
+
+            <h2>Skills</h2>
+            <ul>
+                <li>📊 Data Analysis: ████████░░</li>
+                <li>🔄 ETL: ████████░░</li>
+                <li>🐍 Python: ███████░░░</li>
+                <li>🗃️ SQL: █████████░</li>
+                <li>📈 Power BI/Tableau: █████████░</li>
+                <li>🏗️ Data Design & Modeling: ███████░░░</li>
+                <li>🔐 Data Governance: ███████░░░</li>
+            </ul>
+        </aside>
+        
+        <main>
+            {{ content }}
+        </main>
+    </div>
+</body>
+</html>
